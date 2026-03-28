@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Script 3: Disk and Permission Auditor
-# Author: Your Name
+# Author: Parshant
 
 DIRS=("/etc" "/var/log" "/Users" "/usr/bin" "/tmp")
 
