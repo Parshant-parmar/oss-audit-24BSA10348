@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Script 1: System Identity Report
-# Author: Your Name
+# Author: Parshant
 # Course: Open Source Software
 
 # --- Variables ---
